@@ -1,3 +1,9 @@
+/* Project: Lost Silence 
+** Author: Qianru Zhou
+** eMail: qz1@hw.ac.uk
+** All rights reserved.
+*/
+
 package tutorial;
 
 import java.util.ArrayList;
