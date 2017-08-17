@@ -1,6 +1,6 @@
 /*******************************************************************************
  * @author: Qianru Zhou
- * @email: qz1@hw.ac.uk
+ * @email: qz1@hw.ac.uk / chowqianru@gmail.com
  * @project: Lost Silence
  * @version: 2.0
  * @function: CSPARQL_Engine 
