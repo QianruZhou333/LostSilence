@@ -1,3 +1,4 @@
-# LostSilence
-the v1.0 version of application "Lost Silence", a ontology-based tragdy early-alert web service. 
-By extracting information from wireless network data, the sign of tragdy could be detected by a nice and simple algorithm.
+### About LostSilence
+A ontology-based tragdy early-alert web service. 
+Based on a knowledge base of cellular network management system, the sign of tragdy could be detected by continuously processing the cellular network data stream
+
